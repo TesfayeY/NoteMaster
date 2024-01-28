@@ -1,8 +1,6 @@
 /** 
  * MC: Music constants for use with MusicNote interface
  * Set of useful values for defining music notes & related methods
- * @author Cate Sheller
- * @version 26-October-2018
  */
 public class MC {  
     /** 
