@@ -12,10 +12,7 @@ public class QNote implements MusicNote {
         setDuration(len);
     }
     
-    /////////////////////////////////////////////////
-    // DEFAULT CONSTRUCTOR: TO BE ADDED BY STUDENT //
-    // CREATES A QUARTER NOTE (.25) WITH PITCH C4  //
-    /////////////////////////////////////////////////
+
 
     // returns the length of the note in seconds
     public double getDuration() {
